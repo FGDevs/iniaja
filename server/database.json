@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "nama": "Fitrah",
+      "usia": "26",
+      "pekerjaan": "Mobile Developer",
+      "id": 1
+    },
+    {
+      "nama": "FGDevs",
+      "usia": "28",
+      "pekerjaan": "Game Developer",
+      "id": 2
+    },
+    {
+      "nama": "Tama",
+      "usia": "24",
+      "pekerjaan": "Director",
+      "id": 6
+    },
+    {
+      "nama": "Raka",
+      "usia": "25",
+      "pekerjaan": "Sound Composer",
+      "id": 7
+    }
+  ]
+}
